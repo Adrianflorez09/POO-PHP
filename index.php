@@ -25,6 +25,8 @@
       </button>
       <a class="navbar-brand" href="index.php">
         <H3><B>Registro de Estudiantes<B></H3>
+
+        <H3> estto es un mensaje de prueba y nuevo </H3>
       </a><br><br>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
